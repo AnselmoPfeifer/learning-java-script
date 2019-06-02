@@ -1,5 +1,5 @@
 console.log("Hello World");
-var nname = "Anselm Pfeifer"
+var name = "Jon Lee"
 var age = 20;
 var weight = 50.5;
 var reference = ["Old", "Intelligent"];
@@ -7,7 +7,7 @@ var human = true;
 var x = "Self-taught", y = "Zealous";
 
 var student = {
-    name: "Anselmo",
+    name: "Peter",
     age: 20,
     weight: 50.5,
     human: true,
